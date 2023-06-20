@@ -88,7 +88,7 @@
                             <nav>
                                 <ul>
                                     <li><a class="active" href="{{route('home.index')}}">Home </a></li>
-                                    <li><a href="{{route('about')}}">About</a></li>
+                                    <li><a href="{{route('chatify')}}">Messenger</a></li>
                                     <li><a href="{{route('shop')}}">Shop</a></li>
                                     <li><a href="{{route('contact')}}">Contact</a></li>
                                     @auth
